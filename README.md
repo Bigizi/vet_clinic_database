@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  <h3><b>Vet Clinic Database PostgreSQL</b></h3>
+  <h3><b>Vet Clinic Database PostgreSQL Project</b></h3>
 
 </div>
 
