@@ -68,8 +68,8 @@ To get a local copy up and running, follow these steps.
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/jonas-45/vet-clinic-database-postgreSql.git
-$ cd vet-clinic-database-postgreSql
+$ git clone https://github.com/Bigizi/vet_clinic_database
+$ cd vet_clinic_database
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,11 +78,10 @@ $ cd vet-clinic-database-postgreSql
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Wullah Jonas Nuta**
+👤 **Bigizi Nduwayo Crispin**
 
-- GitHub: [@jonas-45](https://github.com/jonas-45)
-- Twitter: [@jonaswullah](https://twitter.com/jonaswullah)
-- LinkedIn: [jonas-wullah](https://linkedin.com/in/jonas-wullah)
+- GitHub: [@Bigizi Nduwayo Crispin](https://github.com/Bigizi)
+- LinkedIn: [@Bigizi Nduwayo Crispin](https://www.linkedin.com/in/bigizi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
