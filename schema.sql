@@ -10,5 +10,6 @@ CREATE DATABASE vet_clinic
 		escaped_attempts int,
 		neutered boolean,
 		weight_kg decimal,
-		spacies varchar(50),
 	)
+
+	ALTER TABLE animals ADD species varchar(255);
