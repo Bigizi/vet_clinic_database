@@ -9,5 +9,7 @@ CREATE DATABASE vet_clinic
 		date_of_birth date,
 		escaped_attempts int,
 		neutered boolean,
-		weight_kg decimal
+		weight_kg decimal,
 	)
+
+	ALTER TABLE animals ADD species varchar(255);
