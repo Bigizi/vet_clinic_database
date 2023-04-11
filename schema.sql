@@ -48,3 +48,7 @@ CREATE TABLE vets (
 CREATE TABLE specializations(id SERIAL PRIMARY KEY, vet_id int, species_id int);
 
 CREATE TABLE visits (id SERIAL PRIMARY KEY, animal_id int, vet_id int, date_of_visit date);
+
+/* DAY 1 second weel */
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
