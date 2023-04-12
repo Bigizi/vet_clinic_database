@@ -42,8 +42,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Sql query to select all animals whose name ends in "mon"]**
 - **[List the name of all animals born between 2016 and 2019.]**
 - **[List the name of all animals that are neutered and have less than 3 escape attempts.]**
@@ -82,6 +80,11 @@ $ cd vet_clinic_database
 
 - GitHub: [@Bigizi Nduwayo Crispin](https://github.com/Bigizi)
 - LinkedIn: [@Bigizi Nduwayo Crispin](https://www.linkedin.com/in/bigizi/)
+
+👤 **Kigozi Joseph**
+
+- GitHub: [Zeph180](https://github.com/Zeh180)
+- LinkedIn: [@Bigizi Nduwayo Crispin](https://www.linkedin.com/in/kigozi-joseph-suubi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
