@@ -1,0 +1,1 @@
+https://drawsql.app/teams/crispin-design-db/diagrams/exercise
